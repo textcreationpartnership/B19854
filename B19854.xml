@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the king. A proclamation for the careful custody and well ordering of the New River brought from Chadwell and Amwell to the north parts of the city of London.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19854</idno><idno type="EEBO-CITATION">99884104</idno>
+  <idno type="VID">191253</idno>
+  <idno type="EEBO-PROQUEST">2264208340</idno>
+  
+            <idno type="STC">Wing C3460</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.2[64]</idno>
+            <idno type="STC">ESTC R213403</idno>
+            <idno type="PROQUEST">ocm99884104</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884104e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19854)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191253)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:1[64])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the king. A proclamation for the careful custody and well ordering of the New River brought from Chadwell and Amwell to the north parts of the city of London.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>In the Savoy, printed by the assigns of John Bill and Christopher Barker, printers to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Whitehall the three and twentieth day of June, 1669.</note>
+                  <note>Arms 82; Steele notation: the and 2) Proclamation Pleasure,.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Rivers --  England --  Regulation --  Early works to 1800.</term>
+               <term type="topical_term">Water-rights --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:191253:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <byline>By the King.</byline>
+            <head>A PROCLAMATION For the careful Custody and well Ordering of the New River brought from <hi>Chadwell</hi> and <hi>Amwell</hi> to the North parts of the City of <hi>London.</hi>
+            </head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by Authority of two several Acts of Parliament made and Ordained in the Third and fourth years of the Reign of Our late Royal Grandfather King <hi>James</hi> (of blessed memory) the River now running from <hi>Chadwell</hi> and <hi>Amwell,</hi> in Our County of <hi>Hertford,</hi> to the North parts of Our City of <hi>London,</hi> was at the great charge of Our said Grandfather, and other the Vnderstakers happily made and finished, since which time the water there<g ref="char:EOLhyphen"/>of is dispersed by Pipes and Branches through the several Streets and Places of Our said City, the Liberties and Suburbs of the same, and elsewhere, to the benefit and ease of Our Subjects there inhabiting, as well for the cleaning and sweet keeping of them in the times of Infection, as the preservation and safety of the Houses and Buildings, Goods and Riches therein, from the fearful danger of fire casually happening; And such was the care and providence of Our said Grandfather, that the water in any place in the course thereof should not at any time be troubled or corrupted (whereby the health or lives of the people might suffer or be endangered) that by his Letters Patents of Incorporati<g ref="char:EOLhyphen"/>on dated the One and twentieth day of <hi>June,</hi> in the Seventeenth year of his Reign over this Our Realm of <hi>England,</hi> he created and erected a Governour and a Company, sucessively to Regulate, and carefully to Oversee all things appertaining to the said River; and several strict Orders and Commands were made and given by Our late Royal Father (of blessed memory) for preservation of the said River, and preventing of such things as might be prejudicial thereunto; Notwithstanding which, the present Governour and Company have represented unto Vs, That great abuses are daily committed: We therefore taking into Our Princely consideration, That the preservation of the said River is of so great and especial consequence, are graciously pleased by this Our Royal Proclamation (with the advice of Our Privy Council) straitly to Charge and Command, That all and every the Grants, Clauses and Restrictions in the said Acts of Parliament, Letters Patents, and in all other Our Letters Patents, Orders and Proclamations concerning the said River Enacted, Made, Established, Granted or Confirmed, be from time to time carefully obeyed, observed, and performed; And We do hereby strictly prohibit and forbid all and singular the Inhabitants of Our City of <hi>London,</hi> the Suburbs and Liberties there<g ref="char:EOLhyphen"/>of, Our City of <hi>Westminster,</hi> and also the inhabitants of Our several Counties of <hi>Middlesex</hi> and <hi>Hertford,</hi> and likewise all the Plum<g ref="char:EOLhyphen"/>mers, Paviers, and other Artificers whomsoever, and every of them, That they nor any of them, do or shall presume at any time or times hereafter, without the privity, permission and allowance of the Governour and Company aforesaid for the time being, to in<g ref="char:EOLhyphen"/>termeddle with the said Works, or any of the Pipes or Branches thereof, or to convey or derive any Pipe or Branch, Pipes or Branch<g ref="char:EOLhyphen"/>es of the said Water into their or any of their Houses, or other places, nor shall fetch or carry the water out of the said River, the Pipes or Branches thereof, or otherwise hinder, waste or consume, disturb, infect, abuse or corrupt the same River, by setting up of Grates, overflowing of Grounds, making of Trenches or Drains, filling of Ponds, Fishing, watering of Cattel, keeping of Geese or Ducks thereupon, casting of Carrion thereinto, or by doing or permitting any misusance, annoyance, let, stoppage, or prejudice what<g ref="char:EOLhyphen"/>soever to the stream of Our said River in any part of the Currant thereof, nor shall cut, spoil, take away or destroy any the Branches, Bridges, Wharfs, Posts, Rails, Banks, Mounds or Fences to the said River in any wise belonging or appertaining, or therewith injoyed, or lying neer, or behooful to the same, upon pain of Our high displeasure, and of such pains, penalties and punishments, as by the Laws and Statutes of this Kingdom, or Our Prerogative-Royal can and may be inflicted upon the offenders for contempt of Our Royal Will and Pleasure herein declared: And We do hereby straitly Charge and Command all Mayors, Iustices of Peace, Commissioners of Sewers, Sheriffs, Bayliffs, Constables, Headboroughs, and all other Our Officers, Ministers and Subjects within Our said Cities of <hi>London</hi> and <hi>Westminster,</hi> the Suburbs and Liberties thereof, Our Counties of <hi>Middlesex</hi> and <hi>Hertford,</hi> whom the same shall or may concern, That they and every of them hereafter be vigilant and circumspect, that Our Royal Will and Pleasure herein declared, be from time to time effectually observed; And that they and every of them in their several Offices and Places respectively, without excuse or delay, be upon all occasions aiding and assisting to the said Governour and Company, their Officers and Ministers, in the strict observance and execution of all and singular the Powers and Authorities, Limitations and Restraints herein before mentioned, and in the Grants and Prohibitions aforesaid contained, according to the true intent and mean<g ref="char:EOLhyphen"/>ing of these presents, when they shall be thereunto required by them or any of them, as they and every of them tender Our Pleasure, and will avoid the contrary at their perils.</p>
+            <closer>
+               <dateline>Given at the Court at <hi>Whitehall</hi>
+                  <date>the Three and twentieth day of <hi>June,</hi> 1669.</date>
+               </dateline>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>SAVOY,</hi> Printed by the Assigns of <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the Kings most Excellent Majesty. 1669.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
